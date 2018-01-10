@@ -1,0 +1,15 @@
+*{
+    margin: 5px 5px 5px 5px;    
+}
+
+.two{
+    color: red;
+}
+
+#three{
+    color: green;
+}
+.four p{
+    border: 3px dashed purple;
+
+}
